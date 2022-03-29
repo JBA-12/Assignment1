@@ -1,0 +1,31 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+
+
+\title{AI1110 Assignment1}
+\author{AI21BTECH11016}
+\date{March 2022}
+
+\begin{document}
+\maketitle
+\section {Problem 4-c}\\\\
+
+Drawing a pair of tangents to a circle of radius 4cm which is centered at O, from an external point P which touch the circle at Q1 and Q2:\\
+
+    \includegraphics{code}\\   
+    \caption{}
+Clearly, OQ2P is a right-angled triangle.So, we can use pythogorean theorem to find PQ2, which is the length of tangent required.\\
+    
+    \includegraphics{length}
+    
+\begin{center} 
+     
+    Therefore, the length of the tangent drawn from P to the given circle is 5.744563
+    
+\end{center}
+
+
+
+\end{document}
